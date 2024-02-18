@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+    color: white;
+}
+
+.main-container{
+    background-image: url(./dypPHOTO.jpg);
+   background-attachment: fixed;
+   height:100%;
+   width:100%;
+
+
+
+.heading {
+   
+ text-align: center;
+ padding: 30px;
+ margin-inline: 200px;
+}
+#Advait{
+    color :black;
+    font-family: cursive;
+    font-weight: 1000;
+   
+}
+h5{
+    color: black;
+}
+h3{
+ color: #d50e0e;
+ font-style: oblique;
+}
+#myname{
+    color: #f2ea01;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+font-family: cursive;
+    background-color: rgb(0, 0, 0);
+}
+#techfest{
+    color: #ce2865;
+  
+}
+#cultural{
+    color: #27e2fa;
+}
+.post{
+  background-color: #050002;
+   width: 900px;
+   height: 50px;
+ 
+}
+
+.nikhilpic{
+    height: 200px;
+   border-radius: 50%;
+   border: #ebeb3d;
+   border-style: ridge;
+   
+}
+
+.nikvdo
+{padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    height:700px;
+    width: 100%;
+}
